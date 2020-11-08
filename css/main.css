@@ -1,0 +1,29 @@
+img{
+	max-width: 100%
+}
+
+.no-float{
+	float:none;
+}
+.espacio-arriba{
+	margin-top: 2px;
+}
+
+.aumento {
+	font-size:100px;
+}
+.swap {
+	font-family: 'Dancing Script', cursive;
+}
+ h2 {
+ 	color:white;
+ }
+ h1{color:#FF7001;
+ }
+ .espaciado {margin-right:15px;}
+ body{background:black;}
+
+.espacio-abajo{
+	margin-bottom: 40px;
+}
+          
